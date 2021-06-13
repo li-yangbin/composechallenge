@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComposeChallenge</string>
+    <string name="request_permission">申请权限</string>
+    <string name="no_contact">没有联系人</string>
+</resources>
